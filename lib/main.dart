@@ -2,7 +2,7 @@ import 'package:camera_deep_ar/camera_deep_ar.dart';
 import 'package:flutter/material.dart';
 
 const apikey =
-    "cea53c67181a34023bea21ed4620964fa3f28d021046b45a9014865f6be3dc170debacecd217234f";
+    "5f6d755b8fecc8901d48478b6f68152d674978a1f2ba85a3df87c357f70b9d61d7175274e3275b70";
 
 void main() {
   runApp(MyApp());
